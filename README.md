@@ -6,4 +6,5 @@
 - [W3 Schools](https://www.w3schools.com/python/pandas/default.asp)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/pandas/pandas-tutorial/)
 - [Kaggle](https://www.kaggle.com/learn/pandas)
+- [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
